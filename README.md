@@ -1,5 +1,5 @@
 # DECODE-BINARY-MESSAGE-IN-JAVASCRIPT
-This is simple guide project on how to decode binary message in javscript
+This is simple guide project on how to decode binary message in javascript
 Binary code uses the digits of 0 and 1 (binary numbers) to represent computer instructions or text.
 Each instruction or symbol gets a bit string assignment. 
 The strings can correspond to instructions, letters, or symbols. 
